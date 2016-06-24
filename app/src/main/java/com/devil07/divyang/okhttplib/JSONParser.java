@@ -53,6 +53,4 @@ public class JSONParser {
     public void setMAIN_URL(String MAIN_URL) {
         this.MAIN_URL = "http://dev.fittect.com/api/centers/" + MAIN_URL;
     }
-
-
 }
